@@ -1,6 +1,3 @@
-require 'selenium-webdriver'
-
-
 Given(/^User is on practiceselenium home page$/) do
   visit HomePage
 end
