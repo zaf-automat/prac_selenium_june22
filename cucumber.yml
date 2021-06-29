@@ -1,5 +1,2 @@
 default: --profile html_report --publish-quiet
 html_report: --format progress --format html --out HTML_report/execution_report.html
-
-##############
-#####################
